@@ -59,7 +59,7 @@ p {
 
 .flex {
     display: flex;
-    flex-wrap: nowrap; /* Eviter que les éléments se répartissent sur plusieurs lignes */
+    flex-wrap: nowrap; 
 }
 
 .w40 {

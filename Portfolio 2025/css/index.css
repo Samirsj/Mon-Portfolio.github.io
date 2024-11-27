@@ -57,6 +57,11 @@ p {
     margin-inline: auto;
 }
 
+.text-center-title {
+    text-align: center;
+}
+
+
 .flex {
     display: flex;
     flex-wrap: nowrap; 

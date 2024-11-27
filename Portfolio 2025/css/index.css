@@ -91,7 +91,7 @@ p {
 }
 
 .skill img {
-    width: 150px;
+    width: 250px;
 }
 
 .skill h3 {
@@ -220,7 +220,7 @@ header {
     margin: 40px auto;
     position: relative;
     padding-left: 40px;
-    border-left: 3px solid #007bff;
+    border-left: 3px solid #cccccc;
 }
 
 .timeline-item {
